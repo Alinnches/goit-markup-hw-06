@@ -357,14 +357,15 @@ button {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office-mob-@1x.jpg);
+    url(../images/people-office-mob.jpg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-color: #2e2f42;
   background-size: cover;
-  height: 432px;
   min-width: 320px;
   margin: 0 auto;
+  padding-top: 72px;
+  padding-bottom: 72px;
 }
 
 .hero-title {
@@ -375,8 +376,6 @@ button {
   text-align: center;
   max-width: 216px;
   margin: 0 auto;
-  padding-top: 72px;
-
   color: #ffffff;
 }
 
