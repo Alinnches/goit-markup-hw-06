@@ -976,26 +976,6 @@ button {
     width: 208px;
     height: 80px;
   }
-
-  /* 
-  .footer-logo {
-    display: inline-block;
-    justify-content: left;
-    margin-bottom: 16px;
-  }
-
- 
-
-  .logo-container {
-    width: 264px;
-    margin-right: 108px;
-  }
-
-  .footer-container {
-    display: flex;
-    flex-wrap: wrap;
-    row-gap: 24px;
-  } */
 }
 
 @media screen and (min-width: 1158px) {
