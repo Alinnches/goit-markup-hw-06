@@ -962,15 +962,29 @@ button {
     height: 456px;
   }
 
+  .footer-text {
+    max-width: 264px;
+  }
+
+  .logo-container {
+    width: 264px;
+  }
+
+  .footer-container {
+    display: block;
+    align-items: center;
+    width: 208px;
+    height: 80px;
+  }
+
+  /* 
   .footer-logo {
     display: inline-block;
     justify-content: left;
     margin-bottom: 16px;
   }
 
-  .footer-text {
-    max-width: 264px;
-  }
+ 
 
   .logo-container {
     width: 264px;
@@ -980,9 +994,8 @@ button {
   .footer-container {
     display: flex;
     flex-wrap: wrap;
-    align-items: baseline;
     row-gap: 24px;
-  }
+  } */
 }
 
 @media screen and (min-width: 1158px) {
