@@ -423,13 +423,14 @@ button {
       ),
       url(../images/people-office-desk-@1x.jpg);
     height: 436px;
+    padding-bottom: 112px;
+    padding-top: 112px;
   }
 
   .hero-title {
     font-size: 56px;
     line-height: 1.07;
     max-width: 496px;
-    padding-top: 112px;
   }
 
   .hero-button {
@@ -456,6 +457,8 @@ button {
       url(../images/people-office-desk-@1x.jpg);
     height: 600px;
     width: 1440px;
+    padding-top: 188px;
+    padding-bottom: 188px;
   }
 
   .hero-button {
