@@ -962,6 +962,16 @@ button {
     height: 456px;
   }
 
+  .footer-soc-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+
+  .footer-logo {
+    justify-content: flex-start;
+  }
+
   .footer-text {
     max-width: 264px;
   }
@@ -971,10 +981,11 @@ button {
   }
 
   .footer-container {
-    display: block;
-    align-items: center;
     width: 208px;
     height: 80px;
+  }
+
+  .footer-social-text {
   }
 }
 
