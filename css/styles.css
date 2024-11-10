@@ -966,6 +966,7 @@ button {
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
+    margin-bottom: 72px;
   }
 
   .footer-logo {
@@ -988,6 +989,18 @@ button {
   .footer-social-text {
     align-items: flex-start;
     justify-content: flex-start;
+  }
+
+  .footer-form-container {
+    width: 453px;
+  }
+
+  .footer-form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    row-gap: 16px;
   }
 }
 
